@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b6f9f16-9771-40cf-b3ff-e566d16dabe4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mockito.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stubs/mockito.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EmptyFakeTodoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FakeTodoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TodoBusinessLogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TodoBusinessLogicTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="47193a82-cfe2-483d-bcab-b8bca67e9f09" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,20 +14,30 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectId" id="1SERLRoRdYB9CJoUaCgLqTlwGU0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1SD8yiWKvFlfumyUDN3VV2GZzIw" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.TodoBusinessLogicTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="mockito" />
@@ -67,11 +68,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TodoBusinessLogicTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TodoBusinessLogicTest.getAllTodosForToday" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TodoBusinessLogicTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="METHOD_NAME" value="getAllTodosForToday" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,33 +80,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.TodoBusinessLogicTest.test" />
         <item itemvalue="JUnit.TodoBusinessLogicTest" />
+        <item itemvalue="JUnit.TodoBusinessLogicTest.getAllTodosForToday" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b6f9f16-9771-40cf-b3ff-e566d16dabe4" name="Default Changelist" comment="" />
-      <created>1571126711687</created>
+      <changelist id="47193a82-cfe2-483d-bcab-b8bca67e9f09" name="Default Changelist" comment="" />
+      <created>1571087061873</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571126711687</updated>
+      <updated>1571087061873</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
